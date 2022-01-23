@@ -3,6 +3,19 @@
 This is an E-commerce Book Shop. 
 
 
+![ScreenShot of Form](screenshorts/lol.png)
+![ScreenShot of Form](screenshorts/lala.png)
+![ScreenShot of Form](screenshorts/a.png)
+![ScreenShot of Form](screenshorts/b.png)
+![ScreenShot of Form](screenshorts/c.png)
+![ScreenShot of Form](screenshorts/d.png)
+![ScreenShot of Form](screenshorts/e.png)
+![ScreenShot of Form](screenshorts/f.png)
+![ScreenShot of Form](screenshorts/g.png)
+![ScreenShot of Form](screenshorts/h.png)
+![ScreenShot of Form](screenshorts/i.png)
+![ScreenShot of Form](screenshorts/j.png)
+![ScreenShot of Form](screenshorts/k.png)
 
 
 
@@ -18,21 +31,6 @@ This is an E-commerce Book Shop.
  - Deploy web applications on servers like Vercel.
 
 
-
-
-![ScreenShot of Form](screenshorts/lol.png)
-![ScreenShot of Form](screenshorts/lala.png)
-![ScreenShot of Form](screenshorts/a.png)
-![ScreenShot of Form](screenshorts/b.png)
-![ScreenShot of Form](screenshorts/c.png)
-![ScreenShot of Form](screenshorts/d.png)
-![ScreenShot of Form](screenshorts/e.png)
-![ScreenShot of Form](screenshorts/f.png)
-![ScreenShot of Form](screenshorts/g.png)
-![ScreenShot of Form](screenshorts/h.png)
-![ScreenShot of Form](screenshorts/i.png)
-![ScreenShot of Form](screenshorts/j.png)
-![ScreenShot of Form](screenshorts/k.png)
 
 
 ## Run it Locally
