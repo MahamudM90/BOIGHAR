@@ -10,11 +10,11 @@ This is an E-commerce Book Shop.
  - Next Connect package to build backend API
  - MongoDB and Mongoose to save and retrieve data like products, orders and users
  - PayPal developer api to make online payment
- - Deploy web applications on servers like Vercel and Netlify
+ - Deploy web applications on servers like Vercel.
 
 ## Run it Locally
 ```
-$ git clone https://github.com/mahamudm90/boi-ghor
+$ git clone https://github.com/MahamudM90/BOI-GHOR
 $ cd boi-ghor
 $ npm install
 $ npm run dev
