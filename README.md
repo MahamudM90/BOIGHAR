@@ -2,6 +2,11 @@
 
 This is an E-commerce Book Shop. 
 
+
+
+
+
+
 ## Technologies uses
  - NextJS basics like setting up project, navigating between pages and data fetching
  - NextJS advanced topics like dynamic routing, image optimization,  SSG and SSR
@@ -11,6 +16,9 @@ This is an E-commerce Book Shop.
  - MongoDB and Mongoose to save and retrieve data like products, orders and users
  - PayPal developer api to make online payment
  - Deploy web applications on servers like Vercel.
+
+
+
 
 ![ScreenShot of Form](screenshorts/lol.png)
 ![ScreenShot of Form](screenshorts/lala.png)
