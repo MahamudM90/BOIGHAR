@@ -2,19 +2,19 @@
 
 This is an E-commerce Book Shop. 
 
-![ScreenShot of Form](screenshots/lol.png)
-![ScreenShot of Form](screenshots/lala.png)
-![ScreenShot of Form](screenshots/a.png)
-![ScreenShot of Form](screenshots/b.png)
-![ScreenShot of Form](screenshots/c.png)
-![ScreenShot of Form](screenshots/d.png)
-![ScreenShot of Form](screenshots/e.png)
-![ScreenShot of Form](screenshots/f.png)
-![ScreenShot of Form](screenshots/g.png)
-![ScreenShot of Form](screenshots/h.png)
-![ScreenShot of Form](screenshots/i.png)
-![ScreenShot of Form](screenshots/j.png)
-![ScreenShot of Form](screenshots/k.png)
+![ScreenShot of Form](screenshorts/lol.png)
+![ScreenShot of Form](screenshorts/lala.png)
+![ScreenShot of Form](screenshorts/a.png)
+![ScreenShot of Form](screenshorts/b.png)
+![ScreenShot of Form](screenshorts/c.png)
+![ScreenShot of Form](screenshorts/d.png)
+![ScreenShot of Form](screenshorts/e.png)
+![ScreenShot of Form](screenshorts/f.png)
+![ScreenShot of Form](screenshorts/g.png)
+![ScreenShot of Form](screenshorts/h.png)
+![ScreenShot of Form](screenshorts/i.png)
+![ScreenShot of Form](screenshorts/j.png)
+![ScreenShot of Form](screenshorts/k.png)
 
 
 
