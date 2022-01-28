@@ -1,6 +1,6 @@
 ## BOI-GHAR 
 
-This is an E-commerce Book Shop is . 
+This is an E-commerce Book Shop is fully . 
 
 
 ![ScreenShot of Form](screenshorts/lol.png)
