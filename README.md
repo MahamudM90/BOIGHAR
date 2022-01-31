@@ -1,6 +1,6 @@
 ## BOI-GHAR 
 
-This is a Book Shop is fully functional-Ecommerce. 
+This is a Book Shop is fully functional-Ecommerce S. 
 
 
 ![ScreenShot of Form](screenshorts/lol.png)
