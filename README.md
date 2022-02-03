@@ -7,6 +7,8 @@ This is a Book Shop & fully functional-Ecommerce Site.
 
 ##### Popular Products 
 ![ScreenShot of Form](screenshorts/lala.png)
+
+##### Footer
 ![ScreenShot of Form](screenshorts/a.png)
 
 ##### Customer Reviews
