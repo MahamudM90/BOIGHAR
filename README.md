@@ -14,7 +14,11 @@ This is a Book Shop & fully functional-Ecommerce Site.
 
 ##### CartPage
 ![ScreenShot of Form](screenshorts/c.png)
+
+##### Shipping 
 ![ScreenShot of Form](screenshorts/d.png)
+
+##### Payment
 ![ScreenShot of Form](screenshorts/e.png)
 ![ScreenShot of Form](screenshorts/f.png)
 ![ScreenShot of Form](screenshorts/g.png)
