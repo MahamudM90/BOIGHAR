@@ -1,4 +1,4 @@
-## BOI-GHAR 
+## BOI-GHAR 📚
 
 This is a Book Shop & fully functional-Ecommerce Site. 
 
