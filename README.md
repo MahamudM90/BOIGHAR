@@ -1,6 +1,6 @@
 ## BOI-GHAR 📚
 
-This is a Book Shop & fully functional-Ecommerce Site📚 
+This is a Book Shop & fully functional-Ecommerce Site📚🛍
 
 ##### HomePage
 ![ScreenShot of Form](screenshorts/lol.png)
