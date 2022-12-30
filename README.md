@@ -41,7 +41,7 @@ This is a Book Shop & fully functional-Ecommerce Site 📚🛍
 
 
 
-## Technologies uses
+## Technologies Uses
  - NextJS basics like setting up project, Navigating between pages and data fetching
  - NextJS advanced topics like dynamic routing, image optimization,  SSG and SSR
  - MaterialUI framework to build responsive website using custom theme, animation and carousel
